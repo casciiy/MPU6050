@@ -1,0 +1,17 @@
+.\oled.o: ..\SYSTEM\OLED\oled.c
+.\oled.o: ..\SYSTEM\OLED\oled.h
+.\oled.o: ..\SYSTEM\sys\sys.h
+.\oled.o: ..\SYSTEM\sys\stm32f10x_map.h
+.\oled.o: ..\SYSTEM\sys\stm32f10x_conf.h
+.\oled.o: ..\SYSTEM\sys\stm32f10x_type.h
+.\oled.o: ..\SYSTEM\sys\cortexm3_macro.h
+.\oled.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+.\oled.o: ..\SYSTEM\usart\usart.h
+.\oled.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\oled.o: ..\SYSTEM\delay\delay.h
+.\oled.o: ..\SYSTEM\LED\led.h
+.\oled.o: ..\SYSTEM\sys\sys.h
+.\oled.o: ..\SYSTEM\OLED\oled.h
+.\oled.o: ..\SYSTEM\CAN\can.h
+.\oled.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
+.\oled.o: ..\SYSTEM\OLED\oledfont.h
